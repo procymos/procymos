@@ -1,16 +1,16 @@
-## Hi there 👋
+## Olá, seja bem-vindo! Me chamo Procymos Venceslau ✨
+![Procymos GitHub stats](https://github-readme-stats.vercel.app/api?username=procymos&show_icons=true&theme=dracula)
 
-<!--
-**procymos/procymos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Linguagens e ferramentas que utilizo 🖳
 
-Here are some ideas to get you started:
+<div style="display: inline-block"><br>
+  <img align="center" alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
+  <img align="center" alt="C" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Especificações da minha máquina de trabalho
+
+<div style="display: inline-block"><br>
+  <img align="center" alt="11th i5" src="https://img.shields.io/badge/Intel-Core_i5_11th-0071C5?style=for-the-badge&logo=intel&logoColor=white">
+  <img align="center" alt="11th i5" src="https://img.shields.io/badge/Windows-Latitude_7420-0078D6?style=for-the-badge&logo=windows&logoColor=white">
+</div>
