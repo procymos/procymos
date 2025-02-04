@@ -1,6 +1,12 @@
 ## Olá, seja bem-vindo! Me chamo Procymos Venceslau ✨
-![Procymos GitHub stats](https://github-readme-stats.vercel.app/api?username=procymos&show_icons=true&theme=dracula)
 
+<div>
+  <img height="180em" src="![Procymos GitHub stats](https://github-readme-stats.vercel.app/api?username=procymos&show_icons=true&theme=dracula)"/>
+</div>
+
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=procymos&hide_progress=true)
 ### Linguagens e ferramentas que utilizo 🖳
 
 <div style="display: inline-block"><br>
@@ -8,7 +14,6 @@
   <img align="center" alt="C" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 </div><br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=procymos&hide_progress=true)
 
 ### Especificações da minha máquina de trabalho 🖱️
 
