@@ -10,7 +10,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=procymos&hide_progress=true)
 
-### Especificações da minha máquina de trabalho
+### Especificações da minha máquina de trabalho 🖱️
 
 <div style="display: inline-block"><br>
   <img align="center" alt="11th i5" src="https://img.shields.io/badge/Intel-Core_i5_11th-0071C5?style=for-the-badge&logo=intel&logoColor=white">
