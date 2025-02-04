@@ -1,5 +1,10 @@
 ## Olá, seja bem-vindo! Me chamo Procymos Venceslau ✨
-
+### Linguagens e tecnologias que utilizo 🖳
+<div style="display: inline-block"><br>
+  <img align="center" widith="30" height="40" alt="C" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg">
+  <img align="center" alt="Python" widith="30" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
+</div>
+<!--
 <div style="display: inline-block">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=procymos&show_icons=true&theme=dracula"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=procymos&layout=compact&theme=dracula"/>
@@ -10,8 +15,9 @@
   <img align="center" widith="30" height="40" alt="C" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg">
   <img align="center" alt="Python" widith="30" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
 </div>
+-->
 
-##
+## 
 
 ### Especificações da minha máquina de trabalho 🖱️
 
