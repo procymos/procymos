@@ -31,3 +31,4 @@ Sou uma pessoa muito interessada pela programação e pela tecnológia. Gosto de
 <div style="display: inline-block">
   <a href="mailto:procymosvences@gmail.com" target="_blank"><img align="center" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>
+
